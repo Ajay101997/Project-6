@@ -1,14 +1,14 @@
 # Project-6
-# Sales Forecasting Across Multiple Retail Stores
+# 🏪 Sales Forecasting Across Multiple Retail Stores
 
-## Project Overview
+## 📌 Project Overview
 
 This project focuses on predicting daily sales of retail stores using Machine Learning and Deep Learning techniques.
 It includes data preprocessing, exploratory data analysis (EDA), model building, evaluation, and deployment.
 
 ---
 
-## Dataset
+## 📊 Dataset
 
 * Source: Rossmann Store Sales Dataset
 * Includes store-level and time-based features
@@ -16,7 +16,7 @@ It includes data preprocessing, exploratory data analysis (EDA), model building,
 
 ---
 
-## Data Preprocessing
+## ⚙️ Data Preprocessing
 
 * Merged train and store datasets using `Store` column
 * Handled missing values using median and default values
@@ -38,14 +38,17 @@ It includes data preprocessing, exploratory data analysis (EDA), model building,
 * Sales data is right-skewed
 * Outliers are present
 
-👉 📌 Add your plot here:
+Add plot:
 
 ```
-![Sales Histogram](images/<img width="972" height="642" alt="Sales_histogram" src="https://github.com/user-attachments/assets/2e501a26-cd77-4c2d-9ecf-1b72eb2fffcb" />
+![Sales Histogram](images/sales_histogram.png)
+```
+![Sales Histogram](images/<img width="972" height="642" alt="Sales_histogram" src="https://github.com/user-attachments/assets/be525d00-33d5-4f36-925e-a7de8c592aac" />
 )
-```
-
 ---
+![Sales Boxplot](images/<img width="811" height="352" alt="Sales_Boxplot" src="https://github.com/user-attachments/assets/d600d309-8996-4217-98f2-32f87a12a946" />
+)
+
 
 ### 🔹 Log Transformation
 
