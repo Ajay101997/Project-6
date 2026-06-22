@@ -103,6 +103,25 @@ Correlation_Heatmap:
 * MAE: 503.365833791695
 * R2 Score: 0.948371888422028
 
+## Feature Importance Analysis
+
+Feature importance was extracted from the Random Forest model to understand which variables contribute most to sales prediction.
+
+- It helps identify the most influential features  
+- Improves model interpretability  
+- Supports better business decision-making  
+
+### Top Influencing Features:
+- Promo  
+- Open  
+- Day/Month (temporal features)  
+- CompetitionDistance  
+
+### Visualization (Feature Importance Analysis):
+
+<img width="700" height="400" alt="Feature_importance" src="https://github.com/user-attachments/assets/fde4b318-0e8f-4a5e-83e3-177449c50e62" />
+
+
 Add plot:
 
 ```
@@ -145,7 +164,7 @@ LSTM Prediction vs Actual:
 
 Rossmann Sales Prediction App:
 ```
-<img width="800" height="500" alt="Streamlit" src="https://github.com/user-attachments/assets/2d7469de-d232-475f-9f7f-9173bbf222c4" />
+<img width="800" height="500" alt="Streamlit" src="https://github.com/user-attachments/assets/d267d22c-c507-4e4b-b0e5-409c28970a9c" />
 
 
 ## Conclusion
