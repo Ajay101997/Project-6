@@ -31,7 +31,7 @@ It includes data preprocessing, exploratory data analysis (EDA), model building,
 
 ---
 
-## Exploratory Data Analysis (EDA)
+## 📈 Exploratory Data Analysis (EDA)
 
 ### Sales Distribution
 
@@ -41,11 +41,9 @@ It includes data preprocessing, exploratory data analysis (EDA), model building,
 Add plot:
 
 ```
-![Sales Histogram](<img width="972" height="642" alt="Screenshot 2026-06-22 195558" src="https://github.com/user-attachments/assets/59015d93-041e-4ab2-a6ff-0de5402c7a38" />)
-
-
+![Sales Histogram](images/<img width="972" height="642" alt="Screenshot 2026-06-22 195558" src="https://github.com/user-attachments/assets/e5398737-107c-462d-92f4-2f47a143fa3d" />
+)
 ```
-![Sales Boxplot](<img width="721" height="299" alt="image" src="https://github.com/user-attachments/assets/2c76dc15-6a95-4746-9397-2f156eb50654" />)
 
 ---
 
