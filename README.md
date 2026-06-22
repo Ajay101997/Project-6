@@ -38,15 +38,18 @@ It includes data preprocessing, exploratory data analysis (EDA), model building,
 * Sales data is right-skewed
 * Outliers are present
 
-Add plot:
+👉 📌 Add your plot here:
 
 ```
+<img width="972" height="642" alt="Sales_histogram" src="https://github.com/user-attachments/assets/a948d2d1-49a1-4046-bd82-20688dee007e" />
+
 ```
-<img width="400" height="600" alt="Sales_histogram" src="https://github.com/user-attachments/assets/9c8e3a56-b8cd-4d7b-b222-247972b34160" />
+<img width="250" height="500" alt="Sales_histogram" src="https://github.com/user-attachments/assets/37d762e1-dfc4-432d-96e3-7cdbee798a81" />
+
+<img width="400" height="600" alt="Sales_Boxplot" src="https://github.com/user-attachments/assets/1af23a64-d91e-4523-9d1a-c39a94882002" />
+
 
 ---
-<img width="400" height="600" alt="Sales_Boxplot" src="https://github.com/user-attachments/assets/0ef8a51c-62cd-40be-99a7-1dbd6fbcb88a" />
-
 
 ### 🔹 Log Transformation
 
