@@ -145,7 +145,7 @@ LSTM Prediction vs Actual:
 
 Rossmann Sales Prediction App:
 ```
-<img width="700" height="400" alt="Streamlit" src="https://github.com/user-attachments/assets/2d7469de-d232-475f-9f7f-9173bbf222c4" />
+<img width="800" height="500" alt="Streamlit" src="https://github.com/user-attachments/assets/2d7469de-d232-475f-9f7f-9173bbf222c4" />
 
 
 ## Conclusion
