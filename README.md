@@ -42,11 +42,10 @@ Add plot:
 
 ```
 ```
-![Sales Histogram](images/<img width="972" height="642" alt="Sales_histogram" src="https://github.com/user-attachments/assets/be525d00-33d5-4f36-925e-a7de8c592aac" />
-)
+<img width="400" height="600" alt="Sales_histogram" src="https://github.com/user-attachments/assets/9c8e3a56-b8cd-4d7b-b222-247972b34160" />
+
 ---
-![Sales Boxplot](images/<img width="811" height="352" alt="Sales_Boxplot" src="https://github.com/user-attachments/assets/d600d309-8996-4217-98f2-32f87a12a946" />
-)
+<img width="400" height="600" alt="Sales_Boxplot" src="https://github.com/user-attachments/assets/0ef8a51c-62cd-40be-99a7-1dbd6fbcb88a" />
 
 
 ### 🔹 Log Transformation
