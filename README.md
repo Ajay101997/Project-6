@@ -44,9 +44,9 @@ It includes data preprocessing, exploratory data analysis (EDA), model building,
 Sales_Hostogram and Boxplot:
 
 ```
-<img width="400" height="600" alt="Sales_histogram" src="https://github.com/user-attachments/assets/37d762e1-dfc4-432d-96e3-7cdbee798a81" />
+<img width="500" height="800" alt="Sales_histogram" src="https://github.com/user-attachments/assets/37d762e1-dfc4-432d-96e3-7cdbee798a81" />
 
-<img width="400" height="600" alt="Sales_Boxplot" src="https://github.com/user-attachments/assets/1af23a64-d91e-4523-9d1a-c39a94882002" />
+<img width="500" height="800" alt="Sales_Boxplot" src="https://github.com/user-attachments/assets/1af23a64-d91e-4523-9d1a-c39a94882002" />
 
 
 ---
