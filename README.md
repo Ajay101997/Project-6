@@ -46,7 +46,9 @@ Sales_Hostogram:
 ```
 <img width="700" height="400" alt="Sales_histogram" src="https://github.com/user-attachments/assets/37d762e1-dfc4-432d-96e3-7cdbee798a81" />
 ```
+
 Sales_Boxplot:
+
 ```
 <img width="700" height="400" alt="Sales_Boxplot" src="https://github.com/user-attachments/assets/1af23a64-d91e-4523-9d1a-c39a94882002" />
 
