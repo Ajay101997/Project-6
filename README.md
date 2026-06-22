@@ -1,14 +1,14 @@
 # Project-6
-# 🏪 Sales Forecasting Across Multiple Retail Stores
+# Sales Forecasting Across Multiple Retail Stores
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on predicting daily sales of retail stores using Machine Learning and Deep Learning techniques.
 It includes data preprocessing, exploratory data analysis (EDA), model building, evaluation, and deployment.
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 * Source: Rossmann Store Sales Dataset
 * Includes store-level and time-based features
@@ -16,7 +16,7 @@ It includes data preprocessing, exploratory data analysis (EDA), model building,
 
 ---
 
-## ⚙️ Data Preprocessing
+## Data Preprocessing
 
 * Merged train and store datasets using `Store` column
 * Handled missing values using median and default values
@@ -31,14 +31,14 @@ It includes data preprocessing, exploratory data analysis (EDA), model building,
 
 ---
 
-## 📈 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
-### 🔹 Sales Distribution
+### Sales Distribution
 
 * Sales data is right-skewed
 * Outliers are present
 
-👉 📌 Add your plot here:
+Add your plot here:
 
 ```
 Sales_Hostogram & Sales_Boxplot:
@@ -49,98 +49,106 @@ Sales_Hostogram & Sales_Boxplot:
 
 ---
 
-### 🔹 Log Transformation
+### Log Transformation
 
 * Applied `log1p` to reduce skewness
 * Improved data distribution
 
-👉 📌 Add plot:
+Add plot:
 
 ```
-![Log Sales](images/log_sales.png)
+Log Sales:
 ```
+<img width="700" height="400" alt="LogTransformed_Sales" src="https://github.com/user-attachments/assets/34ea692d-1dab-4fb4-874f-f64e1fbc2f71" />
 
 ---
 
-### 🔹 Bivariate Analysis
+### Bivariate Analysis
 
 * Promotions increase sales
 * Seasonal trends observed across months
 
-👉 📌 Add plots:
+Add plots:
 
 ```
-![Month vs Sales](images/month_sales.png)
-![Promo vs Sales](images/promo_sales.png)
+Month vs Sales & Promo vs Sales:
 ```
+<img width="700" height="400" alt="Month Vs Sales" src="https://github.com/user-attachments/assets/466b89b0-e9dc-44a1-9f06-c55b8f53d9ec" />
+<img width="700" height="400" alt="Promo Vs Sales" src="https://github.com/user-attachments/assets/8e411e1b-4253-4b6d-8e91-e11f78775713" />
 
 ---
 
-### 🔹 Correlation Heatmap (if you created)
+### Correlation Heatmap (if you created)
 
-👉 📌 Add:
+Add:
 
 ```
-![Heatmap](images/heatmap.png)
+Correlation_Heatmap:
 ```
+<img width="800" height="500" alt="Correlation_Heatmap" src="https://github.com/user-attachments/assets/f97db8c4-51c3-4c46-9186-827f667c9771" />
 
 ---
 
-## 🤖 Model Building
+## Model Building
 
-### 🔹 Random Forest
+### Random Forest
 
 * Used pipeline with StandardScaler
 * Achieved high accuracy
 
-### 📊 Evaluation Metrics:
+### Evaluation Metrics:
 
-* R² Score ≈ High
-* RMSE ≈ Low
-* MAE ≈ Low
+* MSE: 763173.4463319121
+* RMSE: 873.5979889697046
+* MAE: 503.365833791695
+* R2 Score: 0.948371888422028
 
-👉 📌 Add plot:
+Add plot:
 
 ```
-![Actual vs Predicted](images/rf_scatter.png)
+Actual vs Predicted:
 ```
+<img width="700" height="400" alt="Actual Vs Predicted" src="https://github.com/user-attachments/assets/d22077bb-bc91-491f-aa8d-362778e86d78" />
 
 ---
 
-### 🔹 LSTM Model
+### LSTM Model
 
 * Used for time-series prediction
 * Captured trend but lower accuracy than RF
 
-👉 📌 Add plot:
+Add plot:
 
 ```
-![LSTM Plot](images/lstm_plot.png)
+LSTM Prediction vs Actual:
 ```
+<img width="700" height="400" alt="LSTM_Sales" src="https://github.com/user-attachments/assets/90bce5b3-aa4a-49d4-a24e-b57b875f2bda" />
+<img width="700" height="400" alt="LSTM_Actual Vs Predicted" src="https://github.com/user-attachments/assets/42495509-2d9c-401f-9e5b-dfa887f0dea1" />
 
 ---
 
-## 📊 Example: Category Distribution (Percentage)
 
----
-
-## 📌 Model Comparison
+## Model Comparison
 
 | Model         | Performance |
 | ------------- | ----------- |
-| Random Forest | ⭐ Best      |
+| Random Forest | Best        |
 | LSTM          | Moderate    |
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 * Model deployed using **Streamlit**
 * Allows real-time sales prediction
+```
 
----
+Rossmann Sales Prediction App:
+```
+<img width="740" height="827" alt="Streamlit" src="https://github.com/user-attachments/assets/2d7469de-d232-475f-9f7f-9173bbf222c4" />
 
-## 📌 Conclusion
+
+## Conclusion
 
 * Random Forest performed best with high accuracy
 * Sales influenced by promotions and seasonality
@@ -149,7 +157,7 @@ Sales_Hostogram & Sales_Boxplot:
 
 ---
 
-## 🔮 Future Scope
+## Future Scope
 
 * Improve LSTM with more features
 * Use advanced models like GRU
@@ -158,7 +166,7 @@ Sales_Hostogram & Sales_Boxplot:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python
 * Pandas, NumPy
@@ -168,6 +176,6 @@ Sales_Hostogram & Sales_Boxplot:
 
 ---
 
-## 📌 Author
+## Author
 
-Your Name
+Mr. Ajay Kumar Sahu
