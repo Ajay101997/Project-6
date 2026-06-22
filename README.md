@@ -33,16 +33,16 @@ It includes data preprocessing, exploratory data analysis (EDA), model building,
 
 ## 📈 Exploratory Data Analysis (EDA)
 
-### Sales Distribution
+### 🔹 Sales Distribution
 
 * Sales data is right-skewed
 * Outliers are present
 
-Add plot:
+👉 📌 Add your plot here:
 
 ```
-<img width="972" height="642" alt="Screenshot 2026-06-22 195558" src="https://github.com/user-attachments/assets/a87430c6-7b87-414f-892a-7b15a5c3748f" />
-
+![Sales Histogram](images/<img width="972" height="642" alt="Sales_histogram" src="https://github.com/user-attachments/assets/25efa9c6-8a4f-449c-be5e-11b52dc1a0ac" />
+.png)
 ```
 
 ---
