@@ -41,7 +41,8 @@ It includes data preprocessing, exploratory data analysis (EDA), model building,
 Add plot:
 
 ```
-![Sales Histogram](<img width="972" height="642" alt="Screenshot 2026-06-22 195558" src="https://github.com/user-attachments/assets/d3708c76-9dfe-40e6-a420-5e3b1ccf51d8" />)
+<img width="972" height="642" alt="Screenshot 2026-06-22 195558" src="https://github.com/user-attachments/assets/a87430c6-7b87-414f-892a-7b15a5c3748f" />
+
 ```
 
 ---
